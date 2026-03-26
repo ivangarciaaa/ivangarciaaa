@@ -1,9 +1,11 @@
-* Hi, I'm ivangarciaaa
+# 👋 Hi, I'm ivangarciaaa
 
 # 🚀 About Me
 *🌱 Learning programming, networking, and web development
 
-# Languages
+
+## 🛠️ Tech Stack
+**Languages**
 - Python
 - Java
 - JavaScript
