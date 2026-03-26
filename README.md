@@ -1,8 +1,8 @@
 # 👋 Hi, I'm ivangarciaaa
 
 # 🚀 About Me
-*🌱 Learning programming, networking, and web development
-
+- 🌱 Learning programming, networking, and web development
+- 🎯 Goal: Continuously improve my skills and build meaningful projects
 
 ## 🛠️ Tech Stack
 **Languages**
@@ -12,6 +12,9 @@
 - HTML & CSS
 
 
-# 📫 Contact Me
-- 📧 Email: frondarinajames@gmail.com
-- 🌐 GitHub: https://github.com/ivangarciaaa
+## 🌐 Socials
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- 📘 Facebook: https://www.facebook.com/jifrondarina
+- 📸 Instagram: https://www.instagram.com/ivancerdann/
+- 💬 Discord: ivannn004
+
