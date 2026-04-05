@@ -13,7 +13,7 @@
 
 
 # 🌐 Socials
-- 💼 LinkedIn: https://www.linkedin.com/in/james-ivan-frondarina
+- 💼 LinkedIn: https://www.linkedin.com/in/james-ivan-frondarina-680b093b9
 - 📘 Facebook: https://www.facebook.com/jifrondarina
 - 📸 Instagram: https://www.instagram.com/ivancerdann/
 - 💬 Discord: ivannn004
