@@ -4,7 +4,7 @@
 - 🌱 Learning programming, networking, and web development
 - 🎯 Goal: Continuously improve my skills and build meaningful projects
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 **Languages**
 - Python
 - Java
@@ -12,8 +12,8 @@
 - HTML & CSS
 
 
-## 🌐 Socials
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+# 🌐 Socials
+- 💼 LinkedIn: https://www.linkedin.com/in/james-ivan-frondarina
 - 📘 Facebook: https://www.facebook.com/jifrondarina
 - 📸 Instagram: https://www.instagram.com/ivancerdann/
 - 💬 Discord: ivannn004
